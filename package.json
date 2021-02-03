@@ -1,0 +1,14 @@
+{
+  "name": "turntracker",
+  "version": "1.0.0",
+  "description": "Keep track of turns for AI dungeon",
+  "main": "tt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Fazio",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
